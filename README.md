@@ -1,5 +1,5 @@
 ### Ecstasy on Top
-<img src="https://media.giphy.com/media/3o752dyjhKyDJlhJTi/giphy.gif" width="512px"/>
+<img src="https://media.giphy.com/media/3o752dyjhKyDJlhJTi/giphy.gif" width="1000px"/>
 
 
 ## 🌐 Socials:
