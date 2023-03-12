@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4jayyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4jayyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+### Ecstasy on Top
 <img src="https://media.giphy.com/media/3o752dyjhKyDJlhJTi/giphy.gif" width="512px"/>
 
 ---
